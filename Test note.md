@@ -1,1 +1,0 @@
-If this works the extension works fine
