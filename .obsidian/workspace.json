@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handbook конспекты/8.4 Нормализующие потоки.md",
+                "file": "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.4 Нормализующие потоки"
+              "title": "ψ 8.4 Нормализующие потоки"
+            }
+          },
+          {
+            "id": "590c4fa4e05976a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ψ LogLoss вывод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ψ LogLoss вывод"
+            }
+          },
+          {
+            "id": "a1e70a80a9954295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "53ee2f605868a3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Определения кратко/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "32755bfcc33455dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "9928066c50ba144e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ψ LogLoss вывод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ψ LogLoss вывод"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "23b8a9e8c2d97ea8",
@@ -183,15 +254,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b509e41df9bb59cf",
+  "active": "9928066c50ba144e",
   "lastOpenFiles": [
+    "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
+    "ML/ψ LogLoss вывод.md",
+    "ML/Untitled.base",
+    "Теорвер/Untitled 1.md",
+    "Алгем/Untitled 1.md",
+    "Матан/Untitled 1.md",
+    "Определения кратко/Untitled 1.md",
     "Test note.md",
     "Welcome.md",
     "Untitled 2.base",
-    "Handbook конспекты/8.4 Нормализующие потоки.md",
     "testing laptop.md",
     "Untitled 1.base",
-    "Untitled.base",
     "Untitled",
     "Untitled.canvas"
   ]
