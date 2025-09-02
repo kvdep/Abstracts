@@ -35,8 +35,7 @@
               "title": "ψ 8.5 Диффузионные модели"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8ba03cb6d5a40641",
+  "active": "ccbfe1c710b8f948",
   "lastOpenFiles": [
-    "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
     "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
+    "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
     "ML/ψ LogLoss вывод.md",
     "Матан/Untitled 1.md",
     "Определения кратко/Untitled 1.md",
