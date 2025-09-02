@@ -11,10 +11,14 @@
             "id": "85040aee0094c0b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ψ 8.5 Диффузионные модели"
             }
           }
         ]
@@ -166,9 +170,9 @@
   },
   "active": "85040aee0094c0b3",
   "lastOpenFiles": [
-    "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
-    "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
     "Handbook конспекты/4.7 Модели с латентными переменными.md",
+    "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
+    "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
     "Untitled 1.base",
     "Test note.md",
     "Теорвер/Untitled 1.md",
