@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Определения.md",
+                "file": "Матан/Определения.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "70a34cd624a6dc1d",
+  "active": "45518c0789e497df",
   "lastOpenFiles": [
     "Матан/Теоремы.md",
-    "Определения.md",
+    "Матан/Определения.md",
     "Handbook конспекты/4.7. Модели с латентными переменными.md",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Определения кратко/Untitled 1.md",
