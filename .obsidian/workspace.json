@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "51d5a223d7f8b9e6",
+        "id": "2fb645b7b8dbfa7f",
         "type": "tabs",
         "children": [
           {
-            "id": "c12d06aec83113f4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "acca11b33602afdf",
+            "id": "ccbfe1c710b8f948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/1. DL.1.md",
+                "file": "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. DL.1"
+              "title": "ψ 8.4 Нормализующие потоки"
+            }
+          },
+          {
+            "id": "8ba03cb6d5a40641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/Определения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Определения"
             }
           }
         ],
@@ -179,30 +183,29 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "acca11b33602afdf",
+  "active": "8ba03cb6d5a40641",
   "lastOpenFiles": [
-    "Handbook конспекты/4.7. Модели с латентными переменными.md",
-    "Теорвер/Определения.md",
+    "Untitled.md",
+    "ML/1. DL.1.md",
     "Определения кратко/Untitled 1.md",
     "Матан/Определения.md",
-    "Untitled.md",
-    "Определения.md",
-    "ML/1. DL.1.md",
-    "Матан/Теоремы.md",
-    "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
     "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
-    "contents",
+    "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
+    "Матан/Теоремы.md",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
+    "contents",
+    "Handbook конспекты/4.7. Модели с латентными переменными.md",
     "ML/ψ LogLoss вывод.md",
-    "Untitled.canvas",
     "Матан/Untitled 1.md",
-    "Теорвер/Untitled 1.md",
+    "Теорвер/Определения.md",
     "ML/Untitled.base",
     "Алгем/Untitled 1.md",
     "Test note.md",
     "Welcome.md",
     "Untitled 2.base",
     "testing laptop.md",
-    "Untitled 1.base"
+    "Untitled 1.base",
+    "Untitled",
+    "Untitled.canvas"
   ]
 }
