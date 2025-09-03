@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теорвер/Определения.md",
+                "file": "Матан/Определения.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,9 +185,9 @@
   },
   "active": "50405dd98849c83a",
   "lastOpenFiles": [
+    "Теорвер/Определения.md",
     "Матан/Определения.md",
     "Матан/Теоремы.md",
-    "Теорвер/Определения.md",
     "Untitled 1.md",
     "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
     "Определения кратко/Untitled 1.md",
