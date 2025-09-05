@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -211,10 +211,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b3c96792fd410475",
+  "active": "f5509667b0fbdeac",
   "lastOpenFiles": [
-    "Опт/Метод Ньютона.md",
     "Опт/Метод Лагранжа.md",
+    "Опт/Метод Ньютона.md",
     "Untitled.md",
     "Опт",
     "Теорвер/Определения.md",
