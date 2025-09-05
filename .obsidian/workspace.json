@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3104473d05a25893",
+        "id": "980c92677de40e38",
         "type": "tabs",
         "children": [
           {
-            "id": "8484262e7ac52051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Расширенная матрица Гессе.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Расширенная матрица Гессе"
-            }
-          },
-          {
-            "id": "22305f97c5b31a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Множество простого типа.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Множество простого типа"
-            }
-          },
-          {
-            "id": "3a43c894ab66c3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Ортант.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ортант"
-            }
-          },
-          {
-            "id": "3fc6a956293c09e3",
+            "id": "fe513988e54b487e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,15 +24,39 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
               "title": "Задача Математического Программирования"
             }
+          },
+          {
+            "id": "fc504608d83ff10c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/Определения по теме/Активное ограничение.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Активное ограничение"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,11 +202,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3fc6a956293c09e3",
+  "active": "fc504608d83ff10c",
   "lastOpenFiles": [
+    "Матан/Определения по теме/Активное ограничение.md",
+    "Матан/Программирование/Задача Математического Программирования.md",
+    "Матан/Определения по теме/Расширенная матрица Гессе.md",
     "Матан/Определения по теме/Множество простого типа.md",
     "Матан/Определения по теме/Ортант.md",
-    "Матан/Программирование/Задача Математического Программирования.md",
     "Матан/Теоремы/Теорема Шварца.md",
     "Матан/Теоремы/Теорема Гейне–Бореля.md",
     "Матан/Теоремы/Теорема Вейерштрассе.md",
@@ -264,7 +218,6 @@
     "Матан/Определения по теме/Компакт.md",
     "Матан/Определения по теме/Градиент.md",
     "Матан/Определения по теме/Базис.md",
-    "Матан/Определения по теме/Расширенная матрица Гессе.md",
     "Матан/Определения по теме/Скалярное произведение.md",
     "Матан/Определения по теме/Составной тип.md",
     "Матан/Определения.md",
@@ -282,7 +235,6 @@
     "Теорвер/Распределение.md",
     "Теорвер/Определения.md",
     "Определения кратко/Untitled 1.md",
-    "Матан/Теоремы/[расширенная матрица Гессе.md",
     "Untitled.canvas",
     "Матан/Определения по теме",
     "Матан/Теоремы",
