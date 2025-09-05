@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матан/Определения.md",
+                "file": "Опт/Метод Ньютона.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Определения"
+              "title": "Метод Ньютона"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Определения"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,15 +182,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "50405dd98849c83a",
+  "active": "8ba03cb6d5a40641",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "Опт/Метод Лагранжа.md",
+    "Матан/Определения.md",
+    "Теорвер/Определения.md",
+    "Untitled 3.md",
     "Опт/Метод Ньютона.md",
     "Опт",
-    "Матан/Определения.md",
     "Untitled 2.md",
-    "Теорвер/Определения.md",
     "Матан/Теоремы.md",
     "Untitled 1.md",
     "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
