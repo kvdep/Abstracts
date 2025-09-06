@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матан/Определения по теме/Ортант.md",
+                "file": "contents/Pasted image 20250905115932.png.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -34,11 +34,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Ортант"
+              "title": "Pasted image 20250905115932.png"
             }
           },
           {
@@ -215,9 +215,9 @@
   },
   "active": "15627abfef848734",
   "lastOpenFiles": [
-    "ВУЗ/Методы Оптимизации/Лекции/Лекция 1,2 Методы оптимизации.md",
     "Матан/Определения по теме/Ортант.md",
-    "Pasted image 20250905115932.png.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 1,2 Методы оптимизации.md",
+    "contents/Pasted image 20250905115932.png.md",
     "Теорвер/Распределение.md",
     "Определения кратко/Матан.md",
     "Определения кратко/Теорвер.md",
