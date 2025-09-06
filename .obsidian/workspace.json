@@ -11,10 +11,24 @@
             "id": "9c761a6600be0431",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Матан/Определения по теме/Градиент.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Градиент"
             }
           }
         ]
@@ -160,16 +174,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "9c761a6600be0431",
   "lastOpenFiles": [
-    "Матан/Определения по теме/Активное ограничение.md",
-    "Матан/Определения по теме/Простые ограничения.md",
-    "Матан/Определения по теме/Компакт.md",
-    "Матан/Определения по теме/Градиент.md",
     "Матан/Определения по теме/Базис.md",
+    "Матан/Определения по теме/Линейная независимость.md",
+    "Матан/Определения по теме/Простые ограничения.md",
+    "Матан/Определения по теме/Градиент.md",
+    "Матан/Определения по теме/Активное ограничение.md",
+    "Матан/Определения по теме/Компакт.md",
     "Матан/Методы/Метод Ньютона.md",
     "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
     "Handbook конспекты/4.7. Модели с латентными переменными.md",
@@ -179,7 +195,6 @@
     "Матан/Определения по теме/Расширенная матрица Гессе.md",
     "Матан/Определения по теме/Множество простого типа.md",
     "Матан/Определения по теме/Матрица Гессе.md",
-    "Матан/Определения по теме/Линейная независимость.md",
     "Матан/Программирование/Задача Математического Программирования.md",
     "Матан/Определения по теме/Ортант.md",
     "Матан/Теоремы/Теорема Шварца.md",
