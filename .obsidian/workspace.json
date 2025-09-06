@@ -4,79 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "980c92677de40e38",
+        "id": "ec9b163cffa481ae",
         "type": "tabs",
         "children": [
           {
-            "id": "fe513988e54b487e",
+            "id": "9c761a6600be0431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Компакт.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Компакт"
-            }
-          },
-          {
-            "id": "d06c50264cd0b1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Простые ограничения.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Простые ограничения"
-            }
-          },
-          {
-            "id": "fc504608d83ff10c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Активное ограничение.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Активное ограничение"
+              "title": "New tab"
             }
           }
         ]
@@ -225,11 +163,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fe513988e54b487e",
+  "active": "9c761a6600be0431",
   "lastOpenFiles": [
+    "Матан/Определения по теме/Активное ограничение.md",
+    "Матан/Определения по теме/Простые ограничения.md",
+    "Матан/Определения по теме/Компакт.md",
     "Матан/Определения по теме/Градиент.md",
     "Матан/Определения по теме/Базис.md",
-    "Матан/Определения по теме/Активное ограничение.md",
     "Матан/Методы/Метод Ньютона.md",
     "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
     "Handbook конспекты/4.7. Модели с латентными переменными.md",
@@ -237,7 +177,6 @@
     "Теорвер/Определения.md",
     "Теорвер/Распределение.md",
     "Матан/Определения по теме/Расширенная матрица Гессе.md",
-    "Матан/Определения по теме/Простые ограничения.md",
     "Матан/Определения по теме/Множество простого типа.md",
     "Матан/Определения по теме/Матрица Гессе.md",
     "Матан/Определения по теме/Линейная независимость.md",
@@ -247,7 +186,6 @@
     "Матан/Теоремы/Теорема Гейне–Бореля.md",
     "Матан/Теоремы/Теорема Вейерштрассе.md",
     "Матан/Теоремы/Теорема (принцип) Лагранжа.md",
-    "Матан/Определения по теме/Компакт.md",
     "Матан/Определения по теме/Скалярное произведение.md",
     "Матан/Определения по теме/Составной тип.md",
     "Матан/Определения.md",
