@@ -35,24 +35,10 @@
             "id": "5c68ac7eba99e33d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Единичный вектор.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Единичный вектор"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -205,8 +191,8 @@
   },
   "active": "5c68ac7eba99e33d",
   "lastOpenFiles": [
-    "Матан/Определения по теме/Базис.md",
     "Матан/Определения по теме/Единичный вектор.md",
+    "Матан/Определения по теме/Базис.md",
     "Матан/Определения по теме/Простые ограничения.md",
     "Матан/Программирование/Задача Математического Программирования.md",
     "Матан/Определения по теме/Градиент.md",
