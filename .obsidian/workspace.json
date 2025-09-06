@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "15627abfef848734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 1,2 Методы оптимизации.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 1,2 Методы оптимизации"
+            }
+          },
+          {
             "id": "2f9e4cddb9856838",
             "type": "leaf",
             "state": {
@@ -41,7 +65,8 @@
               "title": "Матан"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,12 +213,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "82ed742c75e7e3ea",
+  "active": "15627abfef848734",
   "lastOpenFiles": [
+    "Pasted image 20250905115932.png.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 1,2 Методы оптимизации.md",
     "Теорвер/Распределение.md",
     "Определения кратко/Матан.md",
     "Определения кратко/Теорвер.md",
-    "ВУЗ/Методы Оптимизации/Лекции/Лекция 1,2 Методы оптимизации.md",
     "ВУЗ/Философия/Лекции/Untitled 1.md",
     "ВУЗ/Информационное Право/Лекции/Untitled.md",
     "ВУЗ/ТОБД/Лекции/Untitled 1.md",
@@ -226,7 +252,6 @@
     "Матан/Определения по теме/Расширенная матрица Гессе.md",
     "Матан/Определения по теме/Множество простого типа.md",
     "Матан/Определения по теме/Матрица Гессе.md",
-    "Матан/Теоремы/Теорема Шварца.md",
     "Untitled.canvas"
   ]
 }
