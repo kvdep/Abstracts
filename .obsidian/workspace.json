@@ -11,52 +11,13 @@
             "id": "644247730d38a306",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Необходимые условия максимума.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Необходимые условия максимума"
-            }
-          },
-          {
-            "id": "f11f261dedeeacc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Определения по теме/Седловые точки.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Седловые точки"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,16 +164,17 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "f11f261dedeeacc7",
+  "active": "644247730d38a306",
   "lastOpenFiles": [
+    "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
+    "Матан/Определения по теме/Необходимые условия максимума.md",
+    "Матан/Определения по теме/Седловые точки.md",
     "ВУЗ/Методы Оптимизации/Лекции/Лекция 1,2 Методы оптимизации.md",
     "ВУЗ/Философия/Лекции/Untitled 1.md",
     "Матан/Теоремы/Теорема о седловой точке.md",
     "Матан/Определения по теме/[[Теорема о седловой точке.md",
-    "Матан/Определения по теме/Седловые точки.md",
     "Матан/Определения по теме/Минимакс.md",
     "Матан/Определения по теме/Максимин.md",
-    "Матан/Определения по теме/Необходимые условия максимума.md",
     "Матан/Программирование/Задача Математического Программирования.md",
     "Матан/Теоремы/Теорема Вейерштрассе.md",
     "Матан/Определения по теме/Множество простого типа.md",
@@ -224,7 +186,6 @@
     "Матан/Определения по теме/Ортант.md",
     "Теорвер/Распределение.md",
     "Определения кратко/Теорвер.md",
-    "ВУЗ/Информационное Право/Лекции/Untitled.md",
     "ВУЗ/ТОБД/Лекции/Untitled 1.md",
     "ВУЗ/DL/Лекции/Untitled.md",
     "ВУЗ/Методы Оптимизации/Лекции",
