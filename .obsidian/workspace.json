@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
+                "file": "ВУЗ/Информационное Право/Лекции/ψ Лекция 1. Информация.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Лекция 1. Информация"
+              "title": "ψ Лекция 1. Информация"
             }
           },
           {
@@ -56,36 +56,12 @@
             }
           },
           {
-            "id": "14aa367fedd6970b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Семинар 1 Информационное право"
-            }
-          },
-          {
             "id": "7869266f77505d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
+                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Лекция 1. Информация"
+              "title": "ψ Семинар 2 Информационное право"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -251,12 +228,61 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7869266f77505d5d",
+  "floating": {
+    "id": "e8917f72627706ba",
+    "type": "floating",
+    "children": [
+      {
+        "id": "4d196b1121f99ae2",
+        "type": "window",
+        "children": [
+          {
+            "id": "05dab336af6bc8bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "14aa367fedd6970b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ψ Семинар 1 Информационное право"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 823,
+        "height": 981,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "14aa367fedd6970b",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 1. Информация.md",
     "ВУЗ/Информационное Право/Лекции/Лекция 1 Информационное Право.md",
-    "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "Untitled 2.md",
     "Untitled 1.md",
