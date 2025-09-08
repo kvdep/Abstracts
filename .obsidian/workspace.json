@@ -35,14 +35,52 @@
             "id": "9bb150633ba88632",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/Смеси распределений.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Смеси распределений"
+            }
+          },
+          {
+            "id": "6aba1b214e8e886f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/Дз 1..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Дз 1."
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,8 +227,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "9bb150633ba88632",
+  "active": "45518c0789e497df",
   "lastOpenFiles": [
+    "Теорвер/Смеси распределений.md",
+    "ВУЗ/Информационное Право/Дз/Дз 1..md",
+    "ВУЗ/Информационное Право/Дз",
+    "дз",
     "Матан/Определения по теме/Седловые точки.md",
     "Матан/Методы/Метод Ньютона.md",
     "Матан/Теоремы/Теорема о седловой точке.md",
@@ -216,7 +258,6 @@
     "Теорвер/Распределение.md",
     "Определения кратко/Теорвер.md",
     "ВУЗ/ТОБД/Лекции/Untitled 1.md",
-    "ВУЗ/DL/Лекции/Untitled.md",
     "ВУЗ/Методы Оптимизации/Лекции",
     "ВУЗ/Философия/Лекции",
     "ВУЗ/Информационное Право/Лекции",
@@ -224,9 +265,6 @@
     "ВУЗ/DL/Лекции",
     "ВУЗ/Методы Оптимизации",
     "ВУЗ/Философия",
-    "ВУЗ/ТОБД",
-    "ВУЗ/Информационное Право",
-    "Матан/Определения по теме/Линейная независимость.md",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Untitled.canvas"
   ]
