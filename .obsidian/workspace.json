@@ -8,61 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "644247730d38a306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матан/Методы/Метод Ньютона.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Метод Ньютона"
-            }
-          },
-          {
-            "id": "9bb150633ba88632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорвер/Смеси распределений.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Смеси распределений"
-            }
-          },
-          {
             "id": "6aba1b214e8e886f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Дз/Дз 1..md",
-                "mode": "source",
+                "file": "ВУЗ/Информационное Право/Семинары/Семинар 1 Информационное право.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Дз 1."
+              "title": "Семинар 1 Информационное право"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,12 +180,12 @@
   },
   "active": "6aba1b214e8e886f",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "ВУЗ/Информационное Право/Дз/Дз 1..md",
+    "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
+    "Untitled 1.md",
     "ВУЗ/Информационное Право/Семинары/Семинар 1 Информационное право.md",
     "ВУЗ/Информационное Право/Семинары",
     "ВУЗ/Информационное Право/Лекции/Право, лекция 1.md",
-    "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
     "ВУЗ/Философия/Лекции/Право, лекция 1.md",
     "ВУЗ/Философия/Семинары/Семинар 1 Информационное право.md",
     "ВУЗ/Философия/Семинары",
