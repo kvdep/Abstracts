@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "ψ Лекция 1 DL"
             }
+          },
+          {
+            "id": "5921ea84d50a516d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/Определения по теме/Константа Липшица.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Константа Липшица"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,10 +203,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9d97ed7ce806ac86",
+  "active": "45518c0789e497df",
   "lastOpenFiles": [
-    "Untitled 3.md",
     "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
+    "Матан/Определения по теме/Константа Липшица.md",
+    "Untitled 3.md",
     "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
     "ВУЗ/Методы Оптимизации/Семинары",
     "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
@@ -207,7 +233,6 @@
     "Матан/Определения по теме/Минимакс.md",
     "Матан/Определения по теме/Линейная независимость.md",
     "Матан/Определения по теме/Матрица Гессе.md",
-    "Матан/Определения по теме/Максимин.md",
     "Матан/Определения по теме",
     "Матан/Методы",
     "Матан/Теоремы",
