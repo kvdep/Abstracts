@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
+                "file": "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 2 Информационное право"
+              "title": "ψ Лекция 1 DL"
             }
           }
         ]
@@ -179,132 +179,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "floating": {
-    "id": "e8917f72627706ba",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4d196b1121f99ae2",
-        "type": "window",
-        "children": [
-          {
-            "id": "05dab336af6bc8bb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8ba03cb6d5a40641",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Лекция 1. Информация"
-                }
-              },
-              {
-                "id": "14aa367fedd6970b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "ψ Семинар 1 Информационное право"
-                }
-              },
-              {
-                "id": "7869266f77505d5d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ВУЗ/Информационное Право/Лекции/ψ Лекция 1 Информационное Право.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "ψ Лекция 1 Информационное Право"
-                }
-              },
-              {
-                "id": "f6c06fa922ec2c9c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "ψ ДЗ 1"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 827,
-        "height": 983,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "9d97ed7ce806ac86",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
+    "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 1 Информационное Право.md",
     "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
@@ -329,7 +208,6 @@
     "Матан/Определения по теме/Компакт.md",
     "Матан/Определения по теме/Единичный вектор.md",
     "Матан/Определения по теме/Градиент.md",
-    "Матан/Определения по теме/Активное ограничение.md",
     "Матан/Определения по теме",
     "Матан/Методы",
     "Матан/Теоремы",
