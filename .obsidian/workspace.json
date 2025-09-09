@@ -168,7 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
+      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -294,8 +294,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 823,
-        "height": 981,
+        "width": 827,
+        "height": 983,
         "maximize": false,
         "zoom": 0
       }
