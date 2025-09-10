@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "ψ Семинар 2 Информационное право"
             }
+          },
+          {
+            "id": "728f532a6a1dfb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,11 +252,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "12fcbdcdfab3e232",
+  "active": "728f532a6a1dfb37",
   "lastOpenFiles": [
+    "Untitled 5.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
+    "Матан/Теоремы/Теорема Больцано — Коши.md",
+    "Матан/Определения по теме/Константа Липшица.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
+    "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
+    "contents/Pasted image 20250909150249.png",
+    "Untitled 4.md",
+    "Untitled 3.md",
     "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
     "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
     "Матан/Методы/Метод Ньютона.md",
     "ВУЗ/Методы Оптимизации/Семинары",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
@@ -252,13 +284,6 @@
     "ВУЗ/Информационное Право/Дз",
     "ВУЗ/DL/Лекции/Untitled.md",
     "ВУЗ/ТОБД/Лекции/Untitled 1.md",
-    "ВУЗ/Информационное Право/Лекции/Untitled.md",
-    "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
-    "Определения кратко/Матан.md",
-    "ВУЗ/Философия/Лекции/Untitled 1.md",
-    "Определения кратко/Untitled 1.md",
-    "ВУЗ/Untitled 1.md",
-    "ВУЗ/Untitled.md",
     "ВУЗ/Философия/Лекции",
     "ВУЗ/DL/Лекции",
     "ВУЗ/ТОБД/Лекции",
