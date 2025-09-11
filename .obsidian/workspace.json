@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
+                "file": "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ ДЗ 1"
+              "title": "Лекция 1. Информация"
             }
           }
         ],
@@ -113,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
