@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "ψ ДЗ 1"
             }
-          },
-          {
-            "id": "44b212ab8f1f4423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ ДЗ 2"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +204,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "44b212ab8f1f4423",
+  "active": "42b3e6bf717e281a",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "Матан/Определения по теме/Константа Липшица.md",
     "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
     "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
