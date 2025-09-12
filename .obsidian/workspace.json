@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Определения/Функция Хубера , Huber Loss.md",
+                "file": "Теорвер/Определения/Распределение.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Функция Хубера , Huber Loss"
+              "title": "Распределение"
+            }
+          },
+          {
+            "id": "46888c86e41a05d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/Определения/Несмещенная оценка.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Несмещенная оценка"
+            }
+          },
+          {
+            "id": "1f30adc7ddb376e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/Определения/Состоятельная оценка.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Состоятельная оценка"
+            }
+          },
+          {
+            "id": "0c11097bf0ff8bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теорвер/Определения/Состоятельная оценка.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Состоятельная оценка"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -241,10 +313,16 @@
       }
     ]
   },
-  "active": "540e4b6853957fed",
+  "active": "0c11097bf0ff8bae",
   "lastOpenFiles": [
+    "Теорвер/Определения/Несмещенная оценка.md",
+    "Теорвер/Определения/Распределение.md",
+    "Теорвер/Определения/Эффективная оценка.md",
+    "Теорвер/Определения/Состоятельная оценка.md",
+    "Теорвер/Определения/Смеси распределений.md",
     "ML/Определения/Функционал ошибки.md",
     "ML/Определения/Функция Хубера , Huber Loss.md",
+    "Теорвер/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
     "Handbook конспекты/4.7. Модели с латентными переменными.md",
     "Матан/Критерии/ψ Условия Куна-Таккера.md",
@@ -267,19 +345,13 @@
     "ML/ψ LogLoss вывод.md",
     "ML/Модели",
     "ML/Определения",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
     "Матан/Критерии",
-    "ВУЗ/Философия/Лекции/ψ Лекция 2.md",
-    "Алгем/Теоремы/Untitled 1.md",
     "Алгем/Теоремы",
-    "Алгем/Определения/ψ Минор.md",
-    "Алгем/Определения/ψ Алгебраическое дополнение.md",
     "Алгем/Определения",
     "contents/ИП таблица отрасли права, таблица примеры норм права.docx",
     "ИИ_в_военных_беспилотниках_ройные_системы_и_распознавание_целей.docx",
     "contents/Pasted image 20250909150249.png",
     "ВУЗ/Методы Оптимизации/Семинары",
-    "ВУЗ/Информационное Право/Семинары",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Untitled.canvas"
   ]
