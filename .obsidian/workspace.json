@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Определения/Функция Хубера , Huber Loss.md",
+                "file": "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Функция Хубера , Huber Loss"
+              "title": "ψ Семинар 2"
+            }
+          },
+          {
+            "id": "7b0bdaf3d2675eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Семинары/Семинары 3,4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Семинары 3,4"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -337,8 +361,12 @@
       }
     ]
   },
-  "active": "91b6cad39123b4ee",
+  "active": "7b0bdaf3d2675eae",
   "lastOpenFiles": [
+    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
+    "ВУЗ/Методы Оптимизации/Семинары/Семинары 3,4.md",
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
     "ML/Определения/Log-Cosh loss.md",
     "ML/Вопросы на собеседовании МФТИ.pdf",
     "ML/Определения/Функция Хубера , Huber Loss.md",
@@ -363,9 +391,6 @@
     "Матан/Определения по теме/Линейная независимость.md",
     "Матан/Определения по теме/Константа Липшица.md",
     "Матан/Методы/Метод Ньютона.md",
-    "Матан/Методы/Метод приближенного интегрирования.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 1 Информационное Право.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
     "ML/Модели",
     "ML/Определения",
     "Матан/Критерии",
