@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Функционал ошибки"
             }
+          },
+          {
+            "id": "540e4b6853957fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Определения/Функция Хубера , Huber Loss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Функция Хубера , Huber Loss"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +241,11 @@
       }
     ]
   },
-  "active": "cc80d6c4b7f62847",
+  "active": "540e4b6853957fed",
   "lastOpenFiles": [
-    "ML/Вопросы на собеседовании МФТИ.pdf",
     "ML/Определения/Функционал ошибки.md",
+    "ML/Определения/Функция Хубера , Huber Loss.md",
+    "ML/Вопросы на собеседовании МФТИ.pdf",
     "Handbook конспекты/4.7. Модели с латентными переменными.md",
     "Матан/Критерии/ψ Условия Куна-Таккера.md",
     "Матан/Определения по теме/Максимин.md",
