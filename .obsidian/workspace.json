@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Определения/Log-Cosh loss.md",
+                "file": "ML/Определения/Функция Хубера , Huber Loss.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Log-Cosh loss"
+              "title": "Функция Хубера , Huber Loss"
             }
           }
         ],
@@ -339,8 +339,8 @@
   },
   "active": "91b6cad39123b4ee",
   "lastOpenFiles": [
-    "ML/Вопросы на собеседовании МФТИ.pdf",
     "ML/Определения/Log-Cosh loss.md",
+    "ML/Вопросы на собеседовании МФТИ.pdf",
     "ML/Определения/Функция Хубера , Huber Loss.md",
     "ML/Определения/Функционал ошибки.md",
     "Теорвер/Определения/Эффективная оценка.md",
