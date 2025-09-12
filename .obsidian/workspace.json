@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0ff44baf8279d4e5",
+        "id": "ee7cd3cb11e91a26",
         "type": "tabs",
         "children": [
           {
-            "id": "285c94fb5d505c65",
+            "id": "cc80d6c4b7f62847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
+                "file": "ML/ψ LogLoss вывод.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ ДЗ 2"
+              "title": "ψ LogLoss вывод"
             }
           }
         ]
@@ -179,9 +179,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "45518c0789e497df",
+  "floating": {
+    "id": "ef127aed0695f8da",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0224db75af896331",
+        "type": "window",
+        "children": [
+          {
+            "id": "a059b7694b2cae72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "285c94fb5d505c65",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "ML/Вопросы на собеседовании МФТИ.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Вопросы на собеседовании МФТИ"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1217,
+        "y": 0,
+        "width": 1281,
+        "height": 1440,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cc80d6c4b7f62847",
   "lastOpenFiles": [
     "ML/Вопросы на собеседовании МФТИ.pdf",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
     "Матан/Критерии/ψ Условия Куна-Таккера.md",
     "Матан/Критерии",
     "ВУЗ/Философия/Лекции/ψ Лекция 2.md",
@@ -199,7 +237,6 @@
     "Untitled 5.md",
     "Матан/Теоремы/Теорема Больцано — Коши.md",
     "Матан/Определения по теме/Константа Липшица.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
     "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
     "contents/Pasted image 20250909150249.png",
     "Untitled 4.md",
@@ -217,7 +254,6 @@
     "ВУЗ/Информационное Право/Семинары",
     "ВУЗ/Информационное Право/Дз",
     "ВУЗ/Философия/Лекции",
-    "ВУЗ/DL/Лекции",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Untitled.canvas"
   ]
