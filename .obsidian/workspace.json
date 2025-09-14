@@ -4,155 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee7cd3cb11e91a26",
+        "id": "af6ac637cfad42fb",
         "type": "tabs",
         "children": [
           {
-            "id": "cc80d6c4b7f62847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Определения/Функционал ошибки.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Функционал ошибки"
-            }
-          },
-          {
-            "id": "540e4b6853957fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорвер/Определения/Распределение.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Распределение"
-            }
-          },
-          {
-            "id": "46888c86e41a05d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорвер/Определения/Несмещенная оценка.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Несмещенная оценка"
-            }
-          },
-          {
-            "id": "1f30adc7ddb376e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теорвер/Определения/Состоятельная оценка.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Состоятельная оценка"
-            }
-          },
-          {
-            "id": "0c11097bf0ff8bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Определения/Функция Хубера , Huber Loss.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Функция Хубера , Huber Loss"
-            }
-          },
-          {
-            "id": "91b6cad39123b4ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Семинар 2"
-            }
-          },
-          {
-            "id": "7b0bdaf3d2675eae",
+            "id": "df50c4fbf57becc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,8 +31,7 @@
               "title": "ψ Семинары 3,4"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -324,58 +180,21 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "ef127aed0695f8da",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0224db75af896331",
-        "type": "window",
-        "children": [
-          {
-            "id": "a059b7694b2cae72",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "285c94fb5d505c65",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "ML/Вопросы на собеседовании МФТИ.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Вопросы на собеседовании МФТИ"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1217,
-        "y": 0,
-        "width": 1281,
-        "height": 1440,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7b0bdaf3d2675eae",
+  "active": "df50c4fbf57becc1",
   "lastOpenFiles": [
-    "ML/Вопросы на собеседовании МФТИ.pdf",
-    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинары 3,4.md",
-    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
     "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
-    "ML/Определения/Log-Cosh loss.md",
+    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
+    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинары 3,4.md",
+    "ML/Вопросы на собеседовании МФТИ.pdf",
     "ML/Определения/Функция Хубера , Huber Loss.md",
-    "ML/Определения/Функционал ошибки.md",
-    "Теорвер/Определения/Эффективная оценка.md",
-    "Теорвер/Определения/Смеси распределений.md",
     "Теорвер/Определения/Состоятельная оценка.md",
     "Теорвер/Определения/Несмещенная оценка.md",
     "Теорвер/Определения/Распределение.md",
+    "ML/Определения/Функционал ошибки.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
+    "ML/Определения/Log-Cosh loss.md",
+    "Теорвер/Определения/Эффективная оценка.md",
+    "Теорвер/Определения/Смеси распределений.md",
     "Теорвер/Определения",
     "Handbook конспекты/4.7. Модели с латентными переменными.md",
     "Матан/Критерии/ψ Условия Куна-Таккера.md",
