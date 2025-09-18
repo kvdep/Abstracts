@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "237c1ecbe0640007",
+            "id": "e65fcf7997c20b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "ψ Семинар 2"
             }
-          },
-          {
-            "id": "e65fcf7997c20b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Лекция 3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,9 +181,9 @@
   },
   "active": "e65fcf7997c20b09",
   "lastOpenFiles": [
-    "Untitled 8.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
+    "Untitled 8.md",
     "ВУЗ/Философия/Семинары",
     "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
