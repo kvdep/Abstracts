@@ -35,24 +35,10 @@
             "id": "004b7f2b55deef30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ДЗ 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ДЗ 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -205,14 +191,19 @@
   },
   "active": "004b7f2b55deef30",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 6.md",
     "Untitled 9.md",
+    "Untitled 8.md",
+    "Untitled 1.md",
     "ВУЗ/Информационное Право/Дз/ДЗ 2.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "Матан/Методы/Метод Ньютона.md",
-    "Untitled 1.md",
     "ВУЗ/Методы Оптимизации/Семинары/ψ Семинары 3,4.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
-    "Untitled 8.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Семинары",
     "Определения кратко/Матан.md",
@@ -227,11 +218,6 @@
     "Матан/Теоремы/Теорема Больцано — Коши.md",
     "Матан/Теоремы/Теорема Вейерштрассе.md",
     "Матан/Теоремы/Теорема Гейне–Бореля.md",
-    "Матан/Теоремы/Теорема (принцип) Лагранжа.md",
-    "Матан/Теоремы/Теорема Канторовича.md",
-    "Untitled.md",
-    "Теорвер/Определения/Эффективная оценка.md",
-    "Теорвер/Определения/Состоятельная оценка.md",
     "Теорвер/Определения",
     "Матан/Критерии",
     "ИИ_в_военных_беспилотниках_ройные_системы_и_распознавание_целей.docx",
