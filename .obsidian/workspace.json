@@ -11,13 +11,52 @@
             "id": "8ab899d08964822b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ψ ДЗ 1"
+            }
+          },
+          {
+            "id": "004b7f2b55deef30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ДЗ 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ДЗ 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -165,8 +203,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "8ab899d08964822b",
+  "active": "004b7f2b55deef30",
   "lastOpenFiles": [
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
+    "ВУЗ/Информационное Право/Дз/ДЗ 2.md",
     "Матан/Методы/Метод Ньютона.md",
     "Untitled 1.md",
     "ВУЗ/Методы Оптимизации/Семинары/ψ Семинары 3,4.md",
@@ -192,8 +232,6 @@
     "Теорвер/Определения/Эффективная оценка.md",
     "Теорвер/Определения/Состоятельная оценка.md",
     "Теорвер/Определения/Распределение.md",
-    "Теорвер/Определения/Смеси распределений.md",
-    "Теорвер/Определения/Несмещенная оценка.md",
     "Теорвер/Определения",
     "Матан/Критерии",
     "ИИ_в_военных_беспилотниках_ройные_системы_и_распознавание_целей.docx",
