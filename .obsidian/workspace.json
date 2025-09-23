@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+                "file": "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 3 Информационное право"
+              "title": "ψ Лекция 1 DL"
+            }
+          },
+          {
+            "id": "ebf76c4fabdbc632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 2 DL"
+            }
+          },
+          {
+            "id": "581753e077335fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 3"
+            }
+          },
+          {
+            "id": "9e6ef167ffc8f81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -227,11 +300,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "625b788d45870fb5",
+  "active": "9e6ef167ffc8f81f",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
+    "ВУЗ/DL/Лекции/Untitled.md",
+    "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
+    "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
     "ВУЗ/Информационное Право/Лекции/Лекция 2.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
@@ -239,7 +317,6 @@
     "Untitled.md",
     "Алгем/Определения/ψ Алгебраическое дополнение.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "Untitled 8.md",
     "ВУЗ/Философия/Семинары",
     "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
@@ -252,10 +329,6 @@
     "Матан/Методы/Метод простой итерации.md",
     "Матан/Методы/Метод половинного деления.md",
     "Матан/Методы/Метод Вегстейна.md",
-    "TODO.md",
-    "Untitled 7.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 1 Информационное Право.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
     "Теорвер/Определения",
     "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
