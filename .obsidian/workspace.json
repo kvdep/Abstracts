@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "291bf77abcc019d9",
+        "id": "ca73aac3be6c9bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "8ab899d08964822b",
+            "id": "64f4c2c776fb84ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ψ ДЗ 1"
-            }
-          },
-          {
-            "id": "004b7f2b55deef30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ДЗ 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ДЗ 3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +164,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "004b7f2b55deef30",
+  "active": "64f4c2c776fb84ff",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "ВУЗ/Информационное Право/Дз/ДЗ 3.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
     "Матан/Определения по теме/Единичный вектор.md",
     "Untitled.md",
     "Untitled 2.md",
@@ -216,7 +178,6 @@
     "Untitled 9.md",
     "Untitled 8.md",
     "Untitled 1.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "Матан/Методы/Метод Ньютона.md",
     "ВУЗ/Методы Оптимизации/Семинары/ψ Семинары 3,4.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
