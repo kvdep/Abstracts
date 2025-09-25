@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2c9dd4364de857b",
+        "id": "cfcd30c74ed1974b",
         "type": "tabs",
         "children": [
           {
-            "id": "e65fcf7997c20b09",
+            "id": "889ae99b1d3d8a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгем/Определения/ψ Алгебраическое дополнение.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Алгебраическое дополнение"
+              "title": "ψ Семинар 2"
             }
           },
           {
-            "id": "755246fa244986c6",
+            "id": "7c88dee8feabad03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 2"
+              "title": "ψ Семинар 4"
             }
           },
           {
-            "id": "625b788d45870fb5",
+            "id": "821f7bea1bb1b419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,83 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 1 DL"
-            }
-          },
-          {
-            "id": "ebf76c4fabdbc632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Лекция 2 DL"
-            }
-          },
-          {
-            "id": "581753e077335fa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Лекция 3"
-            }
-          },
-          {
-            "id": "9e6ef167ffc8f81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Лекция 4"
+              "title": "ψ Семинар 3"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -300,15 +227,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9e6ef167ffc8f81f",
+  "active": "821f7bea1bb1b419",
   "lastOpenFiles": [
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+    "TODO.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "ВУЗ/DL/Лекции/Untitled.md",
     "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
     "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
     "ВУЗ/Информационное Право/Лекции/Лекция 2.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
@@ -316,7 +249,6 @@
     "ВУЗ/Информационное Право/Дз/ДЗ 3.md",
     "Untitled.md",
     "Алгем/Определения/ψ Алгебраическое дополнение.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "Untitled 8.md",
     "ВУЗ/Философия/Семинары",
     "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
@@ -324,11 +256,6 @@
     "Матан/Определения по теме/Система нелинейных уравнений.md",
     "Матан/Определения по теме/Окрестность точек.md",
     "Матан/Определения по теме/Матрица Якоби.md",
-    "Матан/Определения по теме/Банахово пространство.md",
-    "Матан/Методы/Модифицированный метод Ньютона.md",
-    "Матан/Методы/Метод простой итерации.md",
-    "Матан/Методы/Метод половинного деления.md",
-    "Матан/Методы/Метод Вегстейна.md",
     "Теорвер/Определения",
     "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
