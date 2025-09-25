@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "ψ Семинар 3"
             }
+          },
+          {
+            "id": "03430ffbefdf2a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,10 +251,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "821f7bea1bb1b419",
+  "active": "03430ffbefdf2a08",
   "lastOpenFiles": [
-    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
+    "Untitled 3.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
     "TODO.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
@@ -255,7 +280,6 @@
     "Матан/Теоремы/Теорема Канторовича.md",
     "Матан/Определения по теме/Система нелинейных уравнений.md",
     "Матан/Определения по теме/Окрестность точек.md",
-    "Матан/Определения по теме/Матрица Якоби.md",
     "Теорвер/Определения",
     "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
