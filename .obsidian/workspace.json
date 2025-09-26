@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "ψ Лекция 3"
             }
-          },
-          {
-            "id": "6cc153f0cb228adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/Лекция 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 3"
-            }
-          },
-          {
-            "id": "af2d96ce05549579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 4"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,13 +178,13 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "af2d96ce05549579",
+  "active": "64f4c2c776fb84ff",
   "lastOpenFiles": [
+    "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
+    "ВУЗ/Философия/Лекции/Лекция 4.md",
     "Untitled 4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
-    "ВУЗ/Философия/Лекции/Лекция 3.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
     "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
     "ВУЗ/DL/Лекции/Untitled.md",
     "Untitled 3.md",
