@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "ψ Семинар 4"
             }
+          },
+          {
+            "id": "d258eac61e0e78ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 3 Информационное право"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,17 +203,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "03430ffbefdf2a08",
+  "active": "d258eac61e0e78ae",
   "lastOpenFiles": [
-    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+    "Untitled 5.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+    "ВУЗ/Философия/Лекции/Лекция 4.md",
+    "Untitled 4.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "Untitled 3.md",
     "TODO.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "ВУЗ/DL/Лекции/Untitled.md",
@@ -204,9 +232,6 @@
     "Untitled 8.md",
     "ВУЗ/Философия/Семинары",
     "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
-    "Матан/Теоремы/Теорема Канторовича.md",
-    "Матан/Определения по теме/Система нелинейных уравнений.md",
-    "Матан/Определения по теме/Окрестность точек.md",
     "Теорвер/Определения",
     "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
