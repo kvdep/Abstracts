@@ -16,6 +16,30 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "401d6bc7e92d6ea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгем/Определения/ψ Алгебраическое дополнение.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Алгебраическое дополнение"
+            }
           }
         ]
       }
@@ -166,6 +190,13 @@
   },
   "active": "64f4c2c776fb84ff",
   "lastOpenFiles": [
+    "Алгем/Определения/ψ Алгебраическое дополнение.md",
+    "Алгем/Теоремы/Untitled 1.md",
+    "Алгем/Определения/ψ Минор.md",
+    "TODO.md",
+    "Untitled 6.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
+    "Untitled 5.md",
     "ВУЗ/Философия/Лекции/Лекция 4.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
@@ -185,13 +216,6 @@
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
     "Untitled.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
-    "ВУЗ/Информационное Право/Дз/ДЗ 3.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 2.md",
-    "Матан/Определения по теме/Единичный вектор.md",
-    "Untitled 6.md",
-    "Untitled 9.md",
-    "Untitled 8.md",
-    "Матан/Методы/Метод Ньютона.md",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
     "Матан/Критерии",
