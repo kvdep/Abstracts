@@ -11,24 +11,10 @@
             "id": "64f4c2c776fb84ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/Лекция 4.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,9 +166,9 @@
   },
   "active": "64f4c2c776fb84ff",
   "lastOpenFiles": [
+    "ВУЗ/Философия/Лекции/Лекция 4.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
-    "ВУЗ/Философия/Лекции/Лекция 4.md",
     "Untitled 4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
