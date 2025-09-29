@@ -4,26 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca73aac3be6c9bb0",
+        "id": "cfcd30c74ed1974b",
         "type": "tabs",
         "children": [
           {
-            "id": "64f4c2c776fb84ff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "401d6bc7e92d6ea8",
+            "id": "03430ffbefdf2a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгем/Определения/ψ Алгебраическое дополнение.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Алгебраическое дополнение"
+              "title": "ψ Семинар 4"
+            }
+          },
+          {
+            "id": "d258eac61e0e78ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ ДЗ 3"
+            }
+          },
+          {
+            "id": "9b739c99e476f46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ ДЗ 4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,49 +224,48 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "obisidian-note-linker:Note Linker": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "64f4c2c776fb84ff",
+  "active": "9b739c99e476f46e",
   "lastOpenFiles": [
-    "Алгем/Определения/ψ Алгебраическое дополнение.md",
-    "Алгем/Теоремы/Untitled 1.md",
-    "Алгем/Определения/ψ Минор.md",
-    "TODO.md",
-    "Untitled 6.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
-    "Untitled 5.md",
     "ВУЗ/Философия/Лекции/Лекция 4.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
-    "Untitled 4.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
-    "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
-    "ВУЗ/DL/Лекции/Untitled.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "ВУЗ/Информационное Право/Лекции/Лекция 1. Информация.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
-    "ML/Определения/Функция Хубера , Huber Loss.md",
-    "Untitled 1.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
-    "ВУЗ/Информационное Право/Лекции/Лекция 2.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
+    "Untitled 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
-    "Untitled.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
+    "Untitled 5.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+    "Untitled 4.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
+    "Untitled 3.md",
+    "TODO.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "ВУЗ/DL/Лекции/Untitled.md",
+    "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
+    "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
+    "ВУЗ/Информационное Право/Лекции/Лекция 2.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
+    "ВУЗ/Информационное Право/Дз/ДЗ 3.md",
+    "Untitled.md",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
-    "Матан/Критерии",
-    "ИИ_в_военных_беспилотниках_ройные_системы_и_распознавание_целей.docx",
-    "Алгем/Теоремы",
-    "Алгем/Определения",
-    "contents/ИП таблица отрасли права, таблица примеры норм права.docx",
     "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
+    "Матан/Критерии",
+    "Алгем/Теоремы",
+    "Алгем/Определения",
+    "ИИ_в_военных_беспилотниках_ройные_системы_и_распознавание_целей.docx",
+    "contents/ИП таблица отрасли права, таблица примеры норм права.docx",
     "contents/Pasted image 20250909150249.png",
-    "preamble.sty",
+    "ВУЗ/Методы Оптимизации/Семинары",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Untitled.canvas"
   ]
