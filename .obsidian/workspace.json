@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03430ffbefdf2a08",
+            "id": "979cf021bbfa74a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 4"
-            }
-          },
-          {
-            "id": "d258eac61e0e78ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ ДЗ 3"
-            }
-          },
-          {
-            "id": "9b739c99e476f46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ ДЗ 4"
+              "title": "ψ Семинар 4 Информационное Право"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,20 +179,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9b739c99e476f46e",
+  "active": "979cf021bbfa74a4",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Лекции/Лекция 2.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 3.md",
+    "ВУЗ/Информационное Право/Лекции/Лекция 2.md",
     "ВУЗ/Философия/Лекции/Лекция 4.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
     "Untitled 6.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "Untitled 5.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
     "Untitled 4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
@@ -253,9 +207,6 @@
     "ВУЗ/DL/Лекции/ψ Лекция 2 DL.md",
     "ВУЗ/DL/Лекции/ψ Лекция 1 DL.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 2 Информационное право.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
-    "ВУЗ/Информационное Право/Дз/ДЗ 3.md",
-    "Untitled.md",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
     "ML/Определения",
