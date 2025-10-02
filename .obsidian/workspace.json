@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 5"
+              "title": "ψ Семинар 2"
+            }
+          },
+          {
+            "id": "25fbfc47321bce67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 4"
+            }
+          },
+          {
+            "id": "e11c205fb4bdf7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,10 +251,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "81f7439d865742e1",
+  "active": "e11c205fb4bdf7bc",
   "lastOpenFiles": [
-    "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
     "Теорвер/Определения/Метод максимального правдоподобия.md",
     "Матан/Определения по теме/Сильная компонента связности.md",
@@ -227,11 +280,6 @@
     "ML/Определения/Метод градиентного спуска.md",
     "ML/Определения/Метод Adam.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 1 Информационное право.md",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
     "ML/Определения",
