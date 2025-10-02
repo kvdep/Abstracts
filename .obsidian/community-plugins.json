@@ -1,5 +1,6 @@
 [
   "github-sync",
   "mathlinks",
-  "obisidian-note-linker"
+  "obisidian-note-linker",
+  "llm-wrapper-plugin"
 ]

@@ -1,0 +1,9 @@
+{
+	"id": "llm-wrapper-plugin",
+	"name": "LLM Wrapper",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Helps with various writing tasks by wrapping local and remote LLMs.",
+	"author": "MMEEEEEE",
+	"isDesktopOnly": false
+}
