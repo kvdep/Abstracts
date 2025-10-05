@@ -1,0 +1,9 @@
+{
+  "geminiApiKeyEnvVar": "",
+  "lmStudioUrl": "http://127.0.0.1:1234/v1/chat/completions",
+  "currentModel": "lmstudio",
+  "contextLinesUp": 10,
+  "contextLinesDown": 10,
+  "blastRadiusLinesUp": 1,
+  "blastRadiusLinesDown": 1
+}
