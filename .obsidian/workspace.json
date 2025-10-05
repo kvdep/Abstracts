@@ -4,27 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "c89429bf1d89826f",
+        "id": "a0bf4c8520aec8b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f99314b820250501",
+            "id": "7bf13efcb098c6d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 3,4 Методы оптимизации"
             }
           },
           {
-            "id": "686f5af087e67f95",
+            "id": "55dfd9fa5d9b12db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 3,4"
             }
           }
         ],
@@ -172,38 +200,41 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "github-sync:Sync with Remote": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "686f5af087e67f95",
+  "active": "55dfd9fa5d9b12db",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
+    "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
     "Untitled 1.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
     "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
     "Untitled.md",
     "ML/Определения/Функция Хубера , Huber Loss.md",
     "ML/Определения/Log-Cosh loss.md",
     "Матан/Методы/EM-алгоритм.md",
     "Алгоритмы/Алгоритм Витерби.md",
-    "ML/Определения/Скрытая марковская модель.md",
-    "ML/Определения/Скрытая марковская модель 1.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 3.md",
-    "Определения кратко/Теорвер.md",
-    "Теорвер/Определения/Смеси распределений.md",
-    "Теорвер/Определения/Эффективная оценка.md",
-    "Теорвер/Определения/Метод максимального правдоподобия.md",
-    "Алгем/Определения/Нижняя граница Крамера-Рао.md",
-    "ML/Определения/Стохастический градиентный спуск (SGD).md",
-    "ML/Определения/Метод градиентного спуска.md",
-    "Теорвер/Определения/Состоятельная оценка.md",
     "ML/Вопросы на собеседовании МФТИ.pdf",
-    "Алгоритмы/Алгоритм Косарайю.md",
-    "Алгоритмы/Алгоритм Прима.md",
-    "Алгоритмы/Алгоритм Краскала.md",
     "Алгоритмы",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
@@ -211,8 +242,6 @@
     "ИИ_в_военных_беспилотниках_ройные_системы_и_распознавание_целей.docx",
     "Алгем/Теоремы",
     "Алгем/Определения",
-    "contents/ИП таблица отрасли права, таблица примеры норм права.docx",
-    "ML/Определения",
     "contents/Pasted image 20250909150249.png",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Untitled.canvas"
