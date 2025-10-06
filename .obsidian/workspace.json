@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "ψ ДЗ 4"
             }
+          },
+          {
+            "id": "a4f48709c0cc3f8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6af78e07a2daa9fb",
+  "active": "a4f48709c0cc3f8c",
   "lastOpenFiles": [
     "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
     "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
