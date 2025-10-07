@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 5 Информационное Право"
+              "title": "Лекция 3,4"
             }
           }
         ],
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -264,6 +265,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -277,12 +279,12 @@
   },
   "active": "adce32a1377deb5c",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
-    "Untitled 2.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
     "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+    "Untitled 2.md",
     "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Summarize.md",
