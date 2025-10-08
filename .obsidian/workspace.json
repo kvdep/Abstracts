@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6575950870022b35",
+        "id": "4dd6389537beaa9e",
         "type": "tabs",
         "children": [
           {
-            "id": "7e0f04ceffb0281e",
+            "id": "160ef3adc5b66e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
+                "file": "Warhammer 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 1,2 Методы оптимизации"
-            }
-          },
-          {
-            "id": "6af78e07a2daa9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ ДЗ 4"
-            }
-          },
-          {
-            "id": "a4f48709c0cc3f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ ДЗ 5"
-            }
-          },
-          {
-            "id": "0cf6ce812362de8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Семинар 3 Информационное право"
-            }
-          },
-          {
-            "id": "adce32a1377deb5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 3,4"
+              "title": "Warhammer 2"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -277,11 +179,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "adce32a1377deb5c",
+  "active": "160ef3adc5b66e3f",
   "lastOpenFiles": [
+    "Warhammer 1.md",
+    "Warhammer 2.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+    "Untitled 3.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
-    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "Untitled 2.md",
@@ -301,12 +208,7 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Untitled.md",
     "Untitled 1.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 4.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
     "Алгоритмы",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
