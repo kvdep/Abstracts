@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a17445ae59b07ac2",
+        "id": "02686d239326c0d3",
         "type": "tabs",
         "children": [
           {
-            "id": "28fda1c375372959",
+            "id": "3feb575ec0247e3c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "базис",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
@@ -155,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,34 +177,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "28fda1c375372959",
+  "active": "3feb575ec0247e3c",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинары 3,4.md",
+    "Матан/Методы/Метод простой итерации.md",
+    "Метод Гаусса.md",
+    "Матан/Определения по теме/Базис.md",
+    "Матан/Методы/Метод половинного деления.md",
+    "Матан/Методы/Метод Вегстейна.md",
+    "Матан/Методы/Метод Крамера.md",
+    "Матан/Методы/Метод Зейделя.md",
+    "Матан/Определения по теме/Система линейных алгебраических уравнений.md",
+    "Матан/Определения по теме/Сильная компонента связности.md",
+    "Матан/Методы/Метод релаксации.md",
+    "Матан/Определения по теме/Система нелинейных уравнений.md",
+    "Матан/Теоремы/Теорема Больцано — Коши.md",
+    "TODO.md",
+    "Untitled 1.md",
     "Алгоритмы/Алгоритм Флойда — Уоршелла.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "Алгоритмы/Алгоритм Джонсона.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "Untitled 4.md",
-    "ВУЗ/Философия/Лекции/Лекция 4.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-    "Warhammer 2.md",
-    "Warhammer 1.md",
-    "Матан/Определения по теме/Граф.md",
-    "Алгоритмы/Алгоритм Витерби.md",
-    "Матан/Методы/Метод Ньютона.md",
-    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
-    "Untitled 3.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
-    "Untitled 2.md",
-    "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850/input.tex",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850",
     "copilot/copilot-custom-prompts",
