@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6c922a4560e63941",
+        "id": "a17445ae59b07ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "3724e2703d965820",
+            "id": "28fda1c375372959",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/Лекция 4.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Лекция 4"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -190,8 +176,26 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3724e2703d965820",
+  "active": "28fda1c375372959",
   "lastOpenFiles": [
+    "Алгоритмы/Алгоритм Флойда — Уоршелла.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "Алгоритмы/Алгоритм Джонсона.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "Untitled 4.md",
+    "ВУЗ/Философия/Лекции/Лекция 4.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
+    "Warhammer 2.md",
+    "Warhammer 1.md",
     "Матан/Определения по теме/Граф.md",
     "Алгоритмы/Алгоритм Витерби.md",
     "Матан/Методы/Метод Ньютона.md",
@@ -202,26 +206,8 @@
     "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850/input.tex",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850",
-    "Untitled.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
-    "Матан/Теоремы/Теорема Больцано — Коши.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
     "ML/Вопросы на собеседовании МФТИ.pdf",
     "Алгоритмы",
     "ВУЗ/Философия/Семинары",
