@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warhammer 2.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warhammer 2"
+              "title": "ψ Сборный семенар"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -151,15 +150,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ψ Сборный семенар"
+            }
+          },
+          {
+            "id": "8791673456ae05df",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,9 +193,14 @@
   },
   "active": "160ef3adc5b66e3f",
   "lastOpenFiles": [
-    "Warhammer 1.md",
-    "Warhammer 2.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
+    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
+    "Warhammer 2.md",
+    "Warhammer 1.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
     "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "Untitled 3.md",
@@ -203,13 +219,8 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Untitled 1.md",
     "Алгоритмы",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
