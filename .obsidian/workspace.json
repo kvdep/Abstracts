@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 5"
+            }
+          },
+          {
+            "id": "a50d288fd3598984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "ψ Сборный семенар"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,12 +217,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "160ef3adc5b66e3f",
+  "active": "a50d288fd3598984",
   "lastOpenFiles": [
+    "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
+    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
+    "Untitled.md",
+    "Алгоритмы/Алгоритм Флойда — Уоршелла.md",
+    "Алгоритмы/Алгоритм Джонсона.md",
+    "Untitled 4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
-    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
     "Warhammer 2.md",
@@ -215,11 +245,6 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
