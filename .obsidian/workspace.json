@@ -150,9 +150,21 @@
               "icon": "lucide-file",
               "title": "ψ ДЗ 5"
             }
+          },
+          {
+            "id": "6a2d11f5f7969544",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -300,7 +312,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "af567fda403337e4",
+  "active": "6a2d11f5f7969544",
   "lastOpenFiles": [
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 1.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
