@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
+                "file": "Warhammer 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 5"
+              "title": "Warhammer 2"
+            }
+          },
+          {
+            "id": "6062789b43ec3a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trench Crusade.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trench Crusade"
+            }
+          },
+          {
+            "id": "4dae1485a065f3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Лекции/ψ Лекция 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 3"
+            }
+          },
+          {
+            "id": "3022692fb8a10001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 4"
             }
           },
           {
@@ -53,6 +125,30 @@
               },
               "icon": "lucide-file",
               "title": "ψ Сборный семенар"
+            }
+          },
+          {
+            "id": "1818360c75181779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 3,4"
             }
           }
         ],
@@ -176,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
+                "file": "Trench Crusade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ψ Сборный семенар"
+              "title": "Outline of Trench Crusade"
             }
           },
           {
@@ -217,10 +313,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a50d288fd3598984",
+  "active": "6062789b43ec3a1c",
   "lastOpenFiles": [
+    "Warhammer 2.md",
+    "Trench Crusade.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 3.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
     "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
     "Untitled.md",
     "Алгоритмы/Алгоритм Флойда — Уоршелла.md",
@@ -230,21 +333,14 @@
     "ВУЗ/Философия/Семинары/ψ Семинар 4.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-    "Warhammer 2.md",
     "Warhammer 1.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
-    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "Untitled 3.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 4 Информационное Право.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "Untitled 2.md",
     "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
