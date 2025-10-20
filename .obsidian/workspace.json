@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 6"
+              "title": "ψ Семинар 6"
+            }
+          },
+          {
+            "id": "684ad5cd4ea2e022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -191,9 +217,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "203a5514d00505a6",
+  "active": "684ad5cd4ea2e022",
   "lastOpenFiles": [
+    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
+    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
@@ -201,7 +230,6 @@
     "Untitled 1.md",
     "Warhammer 2.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
-    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 3.md",
     "Untitled.md",
@@ -217,8 +245,6 @@
     "ML/Определения/Метод главных компонент (PCA).md",
     "ML/Определения/t-SNE.md",
     "ML/Определения/UMAP.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 5.md",
-    "Алгоритмы/Алгоритм Флойда — Уоршелла.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
