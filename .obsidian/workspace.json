@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "ψ ДЗ 5"
             }
+          },
+          {
+            "id": "b1a43ab035a3fb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 7"
+            }
+          },
+          {
+            "id": "07481f11bfc1d129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 7"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +229,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "06a59bf332af0ecf",
+  "active": "07481f11bfc1d129",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
+    "ВУЗ/Философия/Лекции/Untitled 1.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+    "Untitled 5.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
+    "ВУЗ/Философия/Лекции/Untitled.md",
+    "Untitled 4.md",
+    "DND DISCO campaign.canvas",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
     "Untitled 3.md",
     "ВУЗ/Информационное Право/Дз/Untitled.md",
@@ -202,12 +258,6 @@
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
     "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
-    "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
-    "Алгоритмы/Алгоритм Флойда — Уоршелла.md",
-    "Алгоритмы/Алгоритм Джонсона.md",
-    "Алгем/Определения/SVD-разложение.md",
-    "Алгем/Определения/QR-разложение.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
