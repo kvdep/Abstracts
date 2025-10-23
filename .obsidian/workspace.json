@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 7"
+              "title": "ψ Лекция 3"
             }
           },
           {
@@ -48,8 +48,7 @@
               "title": "DND DISCO campaign"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -193,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +207,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d74a3720f5a90a1e",
+  "active": "684ad5cd4ea2e022",
   "lastOpenFiles": [
+    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+    "DND DISCO campaign.canvas",
     "DND DISCO campaign.txt",
     "DND DISCO campaign — копия.canvas",
-    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-    "DND DISCO campaign.canvas",
     "ВУЗ/Философия/Лекции/Untitled.md",
     "Untitled.canvas",
     "testing.txt",
@@ -251,7 +248,6 @@
     "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
     "Матан/Критерии",
-    "Алгем/Теоремы",
     "contents/Pasted image 20250909150249.png",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg"
   ]
