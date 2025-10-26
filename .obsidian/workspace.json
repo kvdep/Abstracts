@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "Лекция 3,4"
             }
+          },
+          {
+            "id": "00bf1394ec8080a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ ДЗ 7"
+            }
+          },
+          {
+            "id": "6b22b1e1a3638034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ ДЗ 8"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -229,8 +277,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "07481f11bfc1d129",
+  "active": "6b22b1e1a3638034",
   "lastOpenFiles": [
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+    "ВУЗ/Информационное Право/Дз/Untitled.md",
+    "Untitled 8.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+    "ВУЗ/Философия/Семинары/Семинар 7.md",
+    "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
+    "ВУЗ/Информационное Право/Дз/ДЗ 6.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "DND DISCO campaign.txt",
     "DND DISCO campaign.canvas",
     "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/Untitled 1.md",
@@ -240,9 +299,7 @@
     "ВУЗ/Философия/Лекции/Untitled.md",
     "Untitled 4.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
     "Untitled 3.md",
-    "ВУЗ/Информационное Право/Дз/Untitled.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
@@ -250,13 +307,6 @@
     "Trench Crusade.md",
     "Untitled 2.md",
     "Матан/Определения по теме/Система линейных алгебраических уравнений.md",
-    "Матан/Методы/Метод релаксации.md",
-    "Матан/Методы/Метод Крамера.md",
-    "Матан/Методы/Метод Зейделя.md",
-    "Матан/Методы/Метод Гаусса.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
@@ -266,7 +316,6 @@
     "ML/Модели",
     "ML/Определения",
     "Матан/Критерии",
-    "Алгем/Теоремы",
     "contents/Pasted image 20250909150249.png",
     "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
     "Untitled.canvas"
