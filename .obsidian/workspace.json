@@ -59,17 +59,24 @@
             "id": "07481f11bfc1d129",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "DND DISCO campaign.canvas",
-                "viewState": {
-                  "x": -337.000047247752,
-                  "y": 931.239719960489,
-                  "zoom": -1.7491959370332315
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "DND DISCO campaign"
+              "icon": "lucide-file",
+              "title": "Лекция 3,4"
             }
           }
         ],
@@ -224,6 +231,7 @@
   },
   "active": "07481f11bfc1d129",
   "lastOpenFiles": [
+    "DND DISCO campaign.canvas",
     "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/Untitled 1.md",
     "Untitled 5.md",
@@ -231,7 +239,6 @@
     "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
     "ВУЗ/Философия/Лекции/Untitled.md",
     "Untitled 4.md",
-    "DND DISCO campaign.canvas",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
     "Untitled 3.md",
@@ -250,7 +257,6 @@
     "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
     "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
