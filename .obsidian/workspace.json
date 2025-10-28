@@ -4,76 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b04248d3f7ee17",
+        "id": "b97fd5116adf71ac",
         "type": "tabs",
         "children": [
           {
-            "id": "684ad5cd4ea2e022",
+            "id": "18a630e417e7994c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ψ Лекция 6"
-            }
-          },
-          {
-            "id": "1f8179dd5db907b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Лекция 6"
-            }
-          },
-          {
-            "id": "d74a3720f5a90a1e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DND DISCO campaign.canvas",
-                "viewState": {
-                  "x": 1005.3027339231172,
-                  "y": 555.8679222434369,
-                  "zoom": -0.3733236860307252
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DND DISCO campaign"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "базис",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,11 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "file": "Алгем/Определения/SVD-разложение.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SVD-разложение"
             }
           },
           {
@@ -192,17 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ψ ДЗ 6"
+              "title": "Outline"
             }
           },
           {
-            "id": "8791673456ae05df",
+            "id": "36167a9ab54ca196",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -212,16 +156,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
-      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -229,52 +172,52 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obisidian-note-linker:Note Linker": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1f8179dd5db907b2",
+  "active": "45518c0789e497df",
   "lastOpenFiles": [
     "Untitled 7.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-    "ВУЗ/Философия/Семинары/Семинар 7.md",
-    "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
-    "ВУЗ/Философия/Лекции/Untitled 1.md",
-    "ВУЗ/Информационное Право/Дз/ДЗ 6.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
-    "DND DISCO campaign.canvas",
     "DND DISCO campaign.txt",
-    "DND DISCO campaign — копия.canvas",
+    "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
+    "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
+    "Untitled 6.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/Untitled.md",
-    "Untitled.canvas",
-    "testing.txt",
-    "testing — копия.canvas",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
-    "Untitled 4.md",
-    "ВУЗ/Информационное Право/Дз/Untitled.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
+    "ВУЗ/Философия/Лекции/Untitled 1.md",
+    "DND DISCO campaign.canvas",
     "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
-    "Trench Crusade.md",
-    "Untitled 1.md",
-    "Warhammer 2.md",
+    "ВУЗ/Философия/Семинары/Семинар 7.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
+    "Untitled 5.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
+    "ВУЗ/Информационное Право/Дз/Untitled.md",
+    "Try project.md",
+    "ВУЗ/Информационное Право/Дз/ДЗ 6.md",
+    "Untitled 3.md",
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
+    "Матан/Определения по теме/Необходимые условия максимума.md",
+    "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
+    "Untitled 2.md",
     "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Trench Crusade.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
+    "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850/input.tex",
+    "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850",
     "copilot/copilot-custom-prompts",
     "copilot",
+    "ML/Вопросы на собеседовании МФТИ.pdf",
     "Алгоритмы",
     "ВУЗ/Философия/Семинары",
     "Теорвер/Определения",
-    "ML/Определения",
-    "ML/Вопросы на собеседовании МФТИ.pdf",
     "Матан/Критерии",
     "contents/Pasted image 20250909150249.png",
-    "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg"
+    "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
+    "Untitled.canvas"
   ]
 }
