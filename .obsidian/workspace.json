@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "51f17c400647de52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 9"
+            }
+          },
+          {
             "id": "d74a3720f5a90a1e",
             "type": "leaf",
             "state": {
@@ -73,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,8 +257,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1f8179dd5db907b2",
+  "active": "51f17c400647de52",
   "lastOpenFiles": [
+    "Untitled 9.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+    "Untitled 8.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
@@ -259,14 +287,10 @@
     "Untitled 3.md",
     "Untitled 2.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
     "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
     "Trench Crusade.md",
-    "Untitled 1.md",
-    "Warhammer 2.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
