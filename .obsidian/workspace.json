@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "684ad5cd4ea2e022",
+            "id": "6d97e9dc296689a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 6"
+              "title": "ψ Лекция 8,9"
             }
           },
           {
-            "id": "1f8179dd5db907b2",
+            "id": "4edba128c6975cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
+                "file": "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,52 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 6"
-            }
-          },
-          {
-            "id": "51f17c400647de52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 9"
-            }
-          },
-          {
-            "id": "d74a3720f5a90a1e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "DND DISCO campaign.canvas",
-                "viewState": {
-                  "x": 1005.3027339231172,
-                  "y": 555.8679222434369,
-                  "zoom": -0.3733236860307252
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "DND DISCO campaign"
+              "title": "ψ Семинар 9"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -257,15 +217,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "51f17c400647de52",
+  "active": "4edba128c6975cbf",
   "lastOpenFiles": [
     "Untitled 9.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
     "Untitled 8.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
     "Untitled 7.md",
     "ВУЗ/Философия/Семинары/Семинар 7.md",
     "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
@@ -288,9 +251,6 @@
     "Untitled 2.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
     "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
-    "Trench Crusade.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
