@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 8,9"
-            }
-          },
-          {
-            "id": "4edba128c6975cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ψ Семинар 9"
+              "title": "ψ ДЗ 8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -217,11 +191,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4edba128c6975cbf",
+  "active": "6d97e9dc296689a1",
   "lastOpenFiles": [
-    "Untitled 9.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
+    "Untitled 9.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
