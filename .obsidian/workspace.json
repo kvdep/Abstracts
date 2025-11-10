@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b04248d3f7ee17",
+        "id": "af6ac637cfad42fb",
         "type": "tabs",
         "children": [
           {
-            "id": "6d97e9dc296689a1",
+            "id": "06a59bf332af0ecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Лекция 8,9"
+              "title": "ψ ДЗ 5"
             }
           },
           {
-            "id": "4edba128c6975cbf",
+            "id": "b1a43ab035a3fb30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
+                "file": "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ Семинар 9"
+              "title": "ψ Лекция 7"
+            }
+          },
+          {
+            "id": "07481f11bfc1d129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 3,4"
+            }
+          },
+          {
+            "id": "00bf1394ec8080a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ ДЗ 7"
+            }
+          },
+          {
+            "id": "6b22b1e1a3638034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ ДЗ 8"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad485968941472ed",
@@ -130,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Handbook конспекты/ψ 8.4 Нормализующие потоки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ψ 8.4 Нормализующие потоки"
             }
           },
           {
@@ -176,27 +248,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ψ ДЗ 6"
-            }
-          },
-          {
-            "id": "8791673456ae05df",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,59 +267,57 @@
     "hiddenItems": {
       "copilot:Open Copilot Chat": false,
       "obisidian-note-linker:Note Linker": false,
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "bases:Create new base": false
     }
   },
-  "active": "4edba128c6975cbf",
+  "active": "6b22b1e1a3638034",
   "lastOpenFiles": [
-    "Untitled 9.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
+    "Untitled 9.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+    "ВУЗ/Информационное Право/Дз/Untitled.md",
     "Untitled 8.md",
-    "Untitled 7.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 3,4.md",
     "ВУЗ/Философия/Семинары/Семинар 7.md",
     "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
-    "ВУЗ/Философия/Лекции/Untitled 1.md",
     "ВУЗ/Информационное Право/Дз/ДЗ 6.md",
+    "Untitled 7.md",
     "Untitled 6.md",
-    "Untitled 5.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 3.md",
-    "DND DISCO campaign.canvas",
     "DND DISCO campaign.txt",
-    "DND DISCO campaign — копия.canvas",
+    "DND DISCO campaign.canvas",
+    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
+    "ВУЗ/Философия/Лекции/Untitled 1.md",
+    "Untitled 5.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 5.md",
+    "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
     "ВУЗ/Философия/Лекции/Untitled.md",
-    "Untitled.canvas",
-    "testing.txt",
-    "testing — копия.canvas",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
     "Untitled 4.md",
-    "ВУЗ/Информационное Право/Дз/Untitled.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
     "Untitled 3.md",
-    "Untitled 2.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
-    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 4.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 3.md",
+    "ВУЗ/Информационное Право/Лекции/ψ Лекция 2.md",
+    "ВУЗ/Методы Оптимизации/Семинары/ψ Семинар 2.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
     "ВУЗ/Философия/Семинары",
-    "Теорвер/Определения",
-    "ML/Определения",
     "ML/Вопросы на собеседовании МФТИ.pdf",
+    "Теорвер/Определения",
+    "ML/Модели",
+    "ML/Определения",
     "Матан/Критерии",
     "contents/Pasted image 20250909150249.png",
-    "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg"
+    "contents/ml_4_7_1_97ddd4916a_bedbb832da.svg",
+    "Untitled.canvas"
   ]
 }
