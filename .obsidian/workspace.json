@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ ДЗ 8"
+              "title": "ψ Семинар 5 Информационное Право"
+            }
+          },
+          {
+            "id": "ae7112b7bb2c5a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Информационное Право/Семинары/ψ Семинар 9 Информационное право.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Семинар 9 Информационное право"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad485968941472ed",
@@ -191,17 +217,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6d97e9dc296689a1",
+  "active": "ae7112b7bb2c5a21",
   "lastOpenFiles": [
-    "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 9 Информационное право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
+    "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
     "Untitled 9.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 5.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 6.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 7.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 6.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
     "Untitled 8.md",
     "Untitled 7.md",
     "ВУЗ/Философия/Семинары/Семинар 7.md",
@@ -222,9 +251,6 @@
     "Untitled 4.md",
     "ВУЗ/Информационное Право/Дз/Untitled.md",
     "Untitled 3.md",
-    "Untitled 2.md",
-    "ВУЗ/Философия/Семинары/ψ Семинар 2.md",
-    "ВУЗ/Философия/Семинары/ψ Сборный семенар.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
