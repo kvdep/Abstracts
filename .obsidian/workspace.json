@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "ce3c9b0f1e2d9c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 3,4 Методы оптимизации"
+            }
+          },
+          {
+            "id": "38a2cba5e0166106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 7,8 Методы Оптимизации.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ψ Лекция 7,8 Методы Оптимизации"
+            }
+          },
+          {
             "id": "ae7112b7bb2c5a21",
             "type": "leaf",
             "state": {
@@ -56,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +265,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ae7112b7bb2c5a21",
+  "active": "38a2cba5e0166106",
   "lastOpenFiles": [
-    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
+    "Pasted image 20251128110442.png",
+    "Pasted image 20251128105224.png",
+    "Pasted image 20251128104244.png",
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 7,8 Методы Оптимизации.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 9 Информационное право.md",
+    "ВУЗ/Информационное Право/Семинары/ψ Семинар 3 Информационное право.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 5 Информационное Право.md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
@@ -248,9 +301,6 @@
     "testing.txt",
     "testing — копия.canvas",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 7.md",
-    "Untitled 4.md",
-    "ВУЗ/Информационное Право/Дз/Untitled.md",
-    "Untitled 3.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Алгоритмы",
