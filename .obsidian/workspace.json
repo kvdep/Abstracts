@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Энтропия.md",
+                "file": "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Энтропия"
+              "title": "ψ 8.5 Диффузионные модели"
             }
           }
         ]
@@ -191,8 +191,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "18a630e417e7994c",
+  "active": "45518c0789e497df",
   "lastOpenFiles": [
+    "Энтропия.md",
     "Trench Crusade.md",
     "Untitled 3.md",
     "Untitled 4.md",
@@ -218,7 +219,6 @@
     "ML/Определения/t-SNE.md",
     "ML/Определения/Метод главных компонент (PCA).md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
-    "Энтропия.md",
     "DND DISCO campaign.txt",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
     "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
