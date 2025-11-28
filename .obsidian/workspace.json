@@ -11,10 +11,24 @@
             "id": "18a630e417e7994c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ML/Определения/Gini.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gini"
             }
           }
         ]
@@ -179,6 +193,11 @@
   },
   "active": "18a630e417e7994c",
   "lastOpenFiles": [
+    "ML/Определения/t-SNE.md",
+    "ML/Определения/Метод главных компонент (PCA).md",
+    "Untitled 4.md",
+    "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
+    "Untitled 8.md",
     "Энтропия.md",
     "ML/Определения/Gini.md",
     "Untitled 7.md",
@@ -202,11 +221,6 @@
     "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 3,4 Методы оптимизации.md",
     "Матан/Определения по теме/Необходимые условия максимума.md",
     "ВУЗ/Информационное Право/Дз/ДЗ 5.md",
-    "Untitled 2.md",
-    "ВУЗ/Информационное Право/Лекции/ψ Лекция 4.md",
-    "ВУЗ/Информационное Право/Дз/ψ ДЗ 6.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850/input.tex",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850",
     "copilot/copilot-custom-prompts",
