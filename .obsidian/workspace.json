@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
+                "file": "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ψ 8.5 Диффузионные модели"
+              "title": "ψ Лекция 1,2 Методы оптимизации"
+            }
+          },
+          {
+            "id": "b992f3878e1efc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ВУЗ/Методы Оптимизации/Лекции/Лекция 7,8 Методы многокритериальной оптимизации.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 7,8 Методы многокритериальной оптимизации"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,8 +216,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "45518c0789e497df",
+  "active": "b992f3878e1efc77",
   "lastOpenFiles": [
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 1,2 Методы оптимизации.md",
+    "ВУЗ/Методы Оптимизации/Лекции/Лекция 7,8 Методы многокритериальной оптимизации.md",
+    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 7,8 Методы Оптимизации.md",
+    "Pasted image 20251128122413.png",
+    "Pasted image 20251128120008.png",
+    "Pasted image 20251128110442.png",
+    "Pasted image 20251128105224.png",
+    "Pasted image 20251128104244.png",
+    "Handbook конспекты/ψ 8.5 Диффузионные модели.md",
     "Энтропия.md",
     "Trench Crusade.md",
     "Untitled 3.md",
@@ -209,22 +243,13 @@
     "ML/Определения/Gini.md",
     "ВУЗ/Философия/Семинары/ψ Семинар 9.md",
     "ВУЗ/Философия/Лекции/ψ Лекция 8,9.md",
-    "ВУЗ/Методы Оптимизации/Лекции/ψ Лекция 7,8 Методы Оптимизации.md",
     "ВУЗ/Информационное Право/Семинары/ψ Семинар 9 Информационное право.md",
-    "Pasted image 20251128122413.png",
-    "Pasted image 20251128120008.png",
-    "Pasted image 20251128110442.png",
-    "Pasted image 20251128105224.png",
-    "Pasted image 20251128104244.png",
     "ML/Определения/t-SNE.md",
     "ML/Определения/Метод главных компонент (PCA).md",
     "ВУЗ/Информационное Право/Дз/ψ ДЗ 8.md",
     "DND DISCO campaign.txt",
     "ВУЗ/Философия/Семинары/ψ Семинар 3.md",
     "ВУЗ/Философия/Семинары/Презентация Неокантианцы Вильгельм Виндельбанд и Генрих Риккерт о науках о культуре.md",
-    "ВУЗ/Философия/Лекции/ψ Лекция 7.md",
-    "ВУЗ/Философия/Лекции/Untitled.md",
-    "ВУЗ/Философия/Лекции/Untitled 1.md",
     "DND DISCO campaign.canvas",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850/input.tex",
     "ВУЗ/Методы Оптимизации/Лекции/media-38a30a9ce4c9a850",
